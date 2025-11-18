@@ -6,7 +6,7 @@ Generate beautiful random color palettes instantly and copy hex values with one 
 ---
 
 ## 🔗 Live Demo
-👉 **Netlify Link:** https://your-netlify-site-name.netlify.app  
+👉 https://color-palette-generater-basic.netlify.app/ 
 (Click to try the live version!)
 
 ---
